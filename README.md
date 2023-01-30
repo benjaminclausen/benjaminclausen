@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjaminclausen
 - 👀 I’m interested in UX design
-- 🌱 I’m currently learning tailwinndCSS
+- 🌱 I’m currently growing my knowledge at Stacc.com 
 - 💞️ I dig HTML and CSS
 - 📫 How to reach me madebybenjam.in
 
